@@ -4,13 +4,13 @@
 
 ---
 
-### 🐍 Requirements (Gereksinimler)
+### 🐍 Requirements
 - **Python Version:** Python 3.10 or higher is recommended.
 - **FFmpeg:** Ensure FFmpeg is installed on your system for high-quality video processing.
 
 ---
 
-### 🛠️ Installation & Setup (Kurulum)
+### 🛠️ Installation & Setup 
 
 Follow these simple steps to get the app running:
 
