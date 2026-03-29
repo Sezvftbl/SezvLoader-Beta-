@@ -1,1 +1,21 @@
+# 🚀 SezvLoader (Beta)
 
+**SezvLoader** is a high-performance media downloader for **TikTok, Instagram, and X (Twitter)**. This project is currently in **Active Beta**.
+
+---
+
+### 🔜 Upcoming Features
+- **More Platforms:** Support for Pinterest and other social media apps.
+- **Enhanced Quality:** 4K and Ultra-HD options.
+- **Improved UI:** Even more customization and themes.
+
+---
+
+### 🐍 Requirements
+- **Python Version:** 3.10 or higher.
+- **FFmpeg:** Required for video processing.
+
+### 🛠️ Quick Setup
+1. **Install Dependencies:**
+   ```bash
+   pip install customtkinter yt-dlp gallery-dl requests pillow
